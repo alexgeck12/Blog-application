@@ -1,5 +1,6 @@
 # aurum-argentum
 
-Back-end: Laravel 5
+Back-end: CakePHP
 Database: Mysql
 
+User authentication is used
